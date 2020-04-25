@@ -6,7 +6,12 @@
         xmlns:local="clr-namespace:WpfApp05"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        
-    </Grid>
+    <StackPanel>
+        <TextBox Width="100" Margin="20" Text="{Binding ElementName=MySlider, Path=Value, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+        <Slider Margin ="50,50,10,10" Name="MySlider" Minimum="0" Maximum="100" IsSnapToTickEnabled="True"></Slider>
+        <TextBox Name ="TextBox1" Width="100" Margin="10" Text="{Binding ElementName=MySlider, Path=Value, Mode=OneTime}"></TextBox>
+        <Slider Margin ="50,50,10,10" Name="MySecondSlider" Minimum="0" Maximum="100" IsSnapToTickEnabled="True"></Slider>
+        <TextBox Name ="TextBox2" Width="100" Margin="10" Text="{Binding ElementName=MySlider, Path=Background, Mode=OneTime}"></TextBox>
+        <Slider Margin ="50,50,10,10" Name="MySecondSlider2" Background="Beige" Minimum="0" Maximum="100" IsSnapToTickEnabled="True"></Slider>
+    </StackPanel>
 </Window>

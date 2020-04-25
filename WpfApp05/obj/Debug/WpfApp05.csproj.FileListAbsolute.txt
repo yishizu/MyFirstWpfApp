@@ -1,0 +1,14 @@
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp05\bin\Debug\WpfApp05.exe.config
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp05\bin\Debug\WpfApp05.exe
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp05\bin\Debug\WpfApp05.pdb
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp05\obj\Debug\MainWindow.g.cs
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp05\obj\Debug\App.g.cs
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp05\obj\Debug\WpfApp05_MarkupCompile.cache
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp05\obj\Debug\WpfApp05_MarkupCompile.lref
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp05\obj\Debug\MainWindow.baml
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp05\obj\Debug\WpfApp05.g.resources
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp05\obj\Debug\WpfApp05.Properties.Resources.resources
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp05\obj\Debug\WpfApp05.csproj.GenerateResource.cache
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp05\obj\Debug\WpfApp05.csproj.CoreCompileInputs.cache
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp05\obj\Debug\WpfApp05.exe
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp05\obj\Debug\WpfApp05.pdb

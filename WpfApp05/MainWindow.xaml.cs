@@ -23,6 +23,8 @@ namespace WpfApp05
         public MainWindow()
         {
             InitializeComponent();
+            MySecondSlider.Value = 40;
+            TextBox1.Text = MySecondSlider.Value.ToString();
         }
     }
 }
