@@ -1,11 +1,11 @@
-﻿MyFirsWpfApp
+﻿WpfApp01
 
 
 winexe
 C#
 .cs
 C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp01\obj\Debug\
-MyFirsWpfApp
+WpfApp01
 none
 false
 DEBUG;TRACE
@@ -16,5 +16,5 @@ C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp01\App.xaml
 13-1505183044
 MainWindow.xaml;
 
-True
+False
 
