@@ -1,0 +1,14 @@
+C:\Users\ykish\source\repos\MyFirsWpfApp\WpfApp03\bin\Debug\WpfApp03.exe.config
+C:\Users\ykish\source\repos\MyFirsWpfApp\WpfApp03\bin\Debug\WpfApp03.exe
+C:\Users\ykish\source\repos\MyFirsWpfApp\WpfApp03\bin\Debug\WpfApp03.pdb
+C:\Users\ykish\source\repos\MyFirsWpfApp\WpfApp03\obj\Debug\MainWindow.g.cs
+C:\Users\ykish\source\repos\MyFirsWpfApp\WpfApp03\obj\Debug\App.g.cs
+C:\Users\ykish\source\repos\MyFirsWpfApp\WpfApp03\obj\Debug\WpfApp03_MarkupCompile.cache
+C:\Users\ykish\source\repos\MyFirsWpfApp\WpfApp03\obj\Debug\WpfApp03_MarkupCompile.lref
+C:\Users\ykish\source\repos\MyFirsWpfApp\WpfApp03\obj\Debug\MainWindow.baml
+C:\Users\ykish\source\repos\MyFirsWpfApp\WpfApp03\obj\Debug\WpfApp03.g.resources
+C:\Users\ykish\source\repos\MyFirsWpfApp\WpfApp03\obj\Debug\WpfApp03.Properties.Resources.resources
+C:\Users\ykish\source\repos\MyFirsWpfApp\WpfApp03\obj\Debug\WpfApp03.csproj.GenerateResource.cache
+C:\Users\ykish\source\repos\MyFirsWpfApp\WpfApp03\obj\Debug\WpfApp03.csproj.CoreCompileInputs.cache
+C:\Users\ykish\source\repos\MyFirsWpfApp\WpfApp03\obj\Debug\WpfApp03.exe
+C:\Users\ykish\source\repos\MyFirsWpfApp\WpfApp03\obj\Debug\WpfApp03.pdb
