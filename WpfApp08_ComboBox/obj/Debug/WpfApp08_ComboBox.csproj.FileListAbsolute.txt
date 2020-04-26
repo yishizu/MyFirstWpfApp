@@ -1,0 +1,14 @@
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp08_ComboBox\bin\Debug\WpfApp08_ComboBox.exe.config
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp08_ComboBox\bin\Debug\WpfApp08_ComboBox.exe
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp08_ComboBox\bin\Debug\WpfApp08_ComboBox.pdb
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp08_ComboBox\obj\Debug\MainWindow.g.cs
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp08_ComboBox\obj\Debug\App.g.cs
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp08_ComboBox\obj\Debug\WpfApp08_ComboBox_MarkupCompile.cache
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp08_ComboBox\obj\Debug\WpfApp08_ComboBox_MarkupCompile.lref
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp08_ComboBox\obj\Debug\MainWindow.baml
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp08_ComboBox\obj\Debug\WpfApp08_ComboBox.g.resources
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp08_ComboBox\obj\Debug\WpfApp08_ComboBox.Properties.Resources.resources
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp08_ComboBox\obj\Debug\WpfApp08_ComboBox.csproj.GenerateResource.cache
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp08_ComboBox\obj\Debug\WpfApp08_ComboBox.csproj.CoreCompileInputs.cache
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp08_ComboBox\obj\Debug\WpfApp08_ComboBox.exe
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp08_ComboBox\obj\Debug\WpfApp08_ComboBox.pdb

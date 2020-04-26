@@ -12,3 +12,4 @@ C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp05\obj\Debug\WpfApp05.csproj.Gen
 C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp05\obj\Debug\WpfApp05.csproj.CoreCompileInputs.cache
 C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp05\obj\Debug\WpfApp05.exe
 C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp05\obj\Debug\WpfApp05.pdb
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp05\obj\Debug\WpfApp05.csprojAssemblyReference.cache
