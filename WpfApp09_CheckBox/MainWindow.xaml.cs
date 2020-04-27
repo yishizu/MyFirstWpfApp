@@ -24,5 +24,31 @@ namespace WpfApp09_CheckBox
         {
             InitializeComponent();
         }
+
+        private void cbAllTopping_Checked(object sender, RoutedEventArgs e)
+        {
+            bool newVal = (cbAllTopping.IsChecked == true);
+            cbSalami.IsChecked = newVal;
+            cbMozarella.IsChecked = newVal;
+            cbMushrooms.IsChecked = newVal;
+        }
+
+        private void cbSingle_Checked(object sender, RoutedEventArgs e)
+        {
+            cbAllTopping.IsChecked = null;
+            if((cbSalami.IsChecked == true) && (cbMushrooms.IsChecked == true) && (cbMozarella.IsChecked == true))
+            {
+                cbAllTopping.IsChecked = true;
+            }
+
+            if((cbSalami.IsChecked == false) && (cbMushrooms.IsChecked == false) && (cbMozarella.IsChecked == false))
+            {
+                cbAllTopping.IsChecked =false;
+            };
+            
+            MessageBox.Show("Thanks for adding!");
+
+        }
+
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp09_CheckBox\bin\Debug\WpfApp09_CheckBox.exe.config
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp09_CheckBox\bin\Debug\WpfApp09_CheckBox.exe
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp09_CheckBox\bin\Debug\WpfApp09_CheckBox.pdb
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp09_CheckBox\obj\Debug\WpfApp09_CheckBox.csprojAssemblyReference.cache
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp09_CheckBox\obj\Debug\MainWindow.g.cs
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp09_CheckBox\obj\Debug\App.g.cs
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp09_CheckBox\obj\Debug\WpfApp09_CheckBox_MarkupCompile.cache
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp09_CheckBox\obj\Debug\WpfApp09_CheckBox_MarkupCompile.lref
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp09_CheckBox\obj\Debug\MainWindow.baml
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp09_CheckBox\obj\Debug\WpfApp09_CheckBox.g.resources
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp09_CheckBox\obj\Debug\WpfApp09_CheckBox.Properties.Resources.resources
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp09_CheckBox\obj\Debug\WpfApp09_CheckBox.csproj.GenerateResource.cache
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp09_CheckBox\obj\Debug\WpfApp09_CheckBox.csproj.CoreCompileInputs.cache
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp09_CheckBox\obj\Debug\WpfApp09_CheckBox.exe
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp09_CheckBox\obj\Debug\WpfApp09_CheckBox.pdb

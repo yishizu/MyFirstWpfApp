@@ -1,0 +1,15 @@
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp11_Property\bin\Debug\WpfApp11_Property.exe.config
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp11_Property\bin\Debug\WpfApp11_Property.exe
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp11_Property\bin\Debug\WpfApp11_Property.pdb
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp11_Property\obj\Debug\WpfApp11_Property.csprojAssemblyReference.cache
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp11_Property\obj\Debug\MainWindow.g.cs
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp11_Property\obj\Debug\App.g.cs
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp11_Property\obj\Debug\WpfApp11_Property_MarkupCompile.cache
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp11_Property\obj\Debug\WpfApp11_Property_MarkupCompile.lref
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp11_Property\obj\Debug\MainWindow.baml
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp11_Property\obj\Debug\WpfApp11_Property.g.resources
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp11_Property\obj\Debug\WpfApp11_Property.Properties.Resources.resources
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp11_Property\obj\Debug\WpfApp11_Property.csproj.GenerateResource.cache
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp11_Property\obj\Debug\WpfApp11_Property.csproj.CoreCompileInputs.cache
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp11_Property\obj\Debug\WpfApp11_Property.exe
+C:\Users\ykish\source\repos\MyFirstWpfApp\WpfApp11_Property\obj\Debug\WpfApp11_Property.pdb

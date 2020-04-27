@@ -6,7 +6,17 @@
         xmlns:local="clr-namespace:WpfApp09_CheckBox"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        
-    </Grid>
+    <StackPanel>
+        <Label ToolTip ="Please check your topping!" FontWeight="SemiBold">Pizza Topping</Label>
+        <CheckBox Name ="cbAllTopping" IsThreeState="True" Checked="cbAllTopping_Checked" Unchecked="cbAllTopping_Checked">Add all</CheckBox>
+        <StackPanel Margin="10">
+            <CheckBox Name="cbSalami" Checked="cbSingle_Checked" Unchecked="cbSingle_Checked">
+                <TextBlock>
+                    Salami <Run Foreground="Red" FontWeight="Bold">Spicy</Run>
+                </TextBlock>
+            </CheckBox>
+            <CheckBox Name="cbMushrooms" Checked="cbSingle_Checked" Unchecked="cbSingle_Checked">Mashrooms</CheckBox>
+            <CheckBox Name="cbMozarella" Checked="cbSingle_Checked" Unchecked="cbSingle_Checked">Mozzarella</CheckBox>
+        </StackPanel>
+    </StackPanel>
 </Window>
