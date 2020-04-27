@@ -78,6 +78,13 @@
             </TextBlock>
                 
         </StackPanel>
+        <StackPanel Margin ="130,0,130,0" >
+            <Label>Username</Label>
+            <TextBox Name="tbUsername"></TextBox>
+            <Label>Password</Label>
+            <PasswordBox PasswordChar="*" MaxLength="8"></PasswordBox>
+            <Button Margin="30" Content="Login" Click="Button_Click" />
+        </StackPanel>
         
     </StackPanel>
 </Window>
