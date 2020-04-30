@@ -1,0 +1,16 @@
+﻿<Window x:Class="WpfApp12_MySQL.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp12_MySQL"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="ZooList" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <ListBox Name ="ListZoos" HorizontalAlignment="Left" Height="204" Margin="10,36,0,0" VerticalAlignment="Top" Width="188" SelectionChanged="ListZoos_SelectionChanged"/>
+        <Label Content="ListAssociatedAnimals" HorizontalAlignment="Left" Margin="222,10,0,0" VerticalAlignment="Top"/>
+        <ListBox x:Name ="ListAssociatedAnimals" HorizontalAlignment="Left" Height="204" Margin="222,36,0,0" VerticalAlignment="Top" Width="188"/>
+
+    </Grid>
+</Window>

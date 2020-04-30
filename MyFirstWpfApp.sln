@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp10_RadioButton", "Wpf
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp11_Property", "WpfApp11_Property\WpfApp11_Property.csproj", "{7D5A96BB-0B27-473A-9EF2-6CE0D593BB82}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp12_MySQL", "WpfApp12_MySQL\WpfApp12_MySQL.csproj", "{818BB4C4-E812-4594-B044-5501C8284139}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{7D5A96BB-0B27-473A-9EF2-6CE0D593BB82}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D5A96BB-0B27-473A-9EF2-6CE0D593BB82}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D5A96BB-0B27-473A-9EF2-6CE0D593BB82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{818BB4C4-E812-4594-B044-5501C8284139}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{818BB4C4-E812-4594-B044-5501C8284139}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{818BB4C4-E812-4594-B044-5501C8284139}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{818BB4C4-E812-4594-B044-5501C8284139}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
