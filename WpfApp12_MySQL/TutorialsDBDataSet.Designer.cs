@@ -30,6 +30,8 @@ namespace WpfApp12_MySQL {
         
         private ZooAnimalDataTable tableZooAnimal;
         
+        private global::System.Data.DataRelation relationZooFK;
+        
         private global::System.Data.SchemaSerializationMode _schemaSerializationMode = global::System.Data.SchemaSerializationMode.IncludeSchema;
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -242,6 +244,7 @@ namespace WpfApp12_MySQL {
                     this.tableZooAnimal.InitVars();
                 }
             }
+            this.relationZooFK = this.Relations["ZooFK"];
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -258,6 +261,10 @@ namespace WpfApp12_MySQL {
             base.Tables.Add(this.tableAnimal);
             this.tableZooAnimal = new ZooAnimalDataTable();
             base.Tables.Add(this.tableZooAnimal);
+            this.relationZooFK = new global::System.Data.DataRelation("ZooFK", new global::System.Data.DataColumn[] {
+                        this.tableZoo.IdColumn}, new global::System.Data.DataColumn[] {
+                        this.tableZooAnimal.ZooIdColumn}, false);
+            this.Relations.Add(this.relationZooFK);
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -1004,12 +1011,15 @@ namespace WpfApp12_MySQL {
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
-            public ZooAnimalRow AddZooAnimalRow(int ZooId, int AminalId) {
+            public ZooAnimalRow AddZooAnimalRow(ZooRow parentZooRowByZooFK, int AminalId) {
                 ZooAnimalRow rowZooAnimalRow = ((ZooAnimalRow)(this.NewRow()));
                 object[] columnValuesArray = new object[] {
                         null,
-                        ZooId,
+                        null,
                         AminalId};
+                if ((parentZooRowByZooFK != null)) {
+                    columnValuesArray[1] = parentZooRowByZooFK[0];
+                }
                 rowZooAnimalRow.ItemArray = columnValuesArray;
                 this.Rows.Add(rowZooAnimalRow);
                 return rowZooAnimalRow;
@@ -1224,6 +1234,17 @@ namespace WpfApp12_MySQL {
                     this[this.tableZoo.LocationColumn] = value;
                 }
             }
+            
+            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
+            public ZooAnimalRow[] GetZooAnimalRows() {
+                if ((this.Table.ChildRelations["ZooFK"] == null)) {
+                    return new ZooAnimalRow[0];
+                }
+                else {
+                    return ((ZooAnimalRow[])(base.GetChildRows(this.Table.ChildRelations["ZooFK"])));
+                }
+            }
         }
         
         /// <summary>
@@ -1324,6 +1345,17 @@ namespace WpfApp12_MySQL {
                 }
                 set {
                     this[this.tableZooAnimal.AminalIdColumn] = value;
+                }
+            }
+            
+            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
+            public ZooRow ZooRow {
+                get {
+                    return ((ZooRow)(this.GetParentRow(this.Table.ParentRelations["ZooFK"])));
+                }
+                set {
+                    this.SetParentRow(value, this.Table.ParentRelations["ZooFK"]);
                 }
             }
         }
